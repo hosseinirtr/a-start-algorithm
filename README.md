@@ -80,7 +80,9 @@ A Rust version of this A* Pathfinding Algorithm Visualizer is currently being de
 
 ## License
 
-This project is licensed under the MIT License. Feel free to use and modify the code as you see fit.
+                           This project is licensed                                  
+                                 Apache License
+                           Version 2.0, January 2004
 
 ---
 
