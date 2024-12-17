@@ -71,7 +71,7 @@ pip install pygame
 A Rust version of this A* Pathfinding Algorithm Visualizer is currently being developed but is not yet completed. Stay tuned for updates!
 
 ## Screenshots
-
+![A* Demo](a-star-demo.gif)
 
 ## Acknowledgements
 
